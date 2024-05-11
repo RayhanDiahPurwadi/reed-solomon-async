@@ -1,0 +1,22 @@
+{
+  "name": "reed-solomon-async",
+  "version": "0.1.0-alpha.1",
+  "description": "Asynchronous reed solomon implementation based on @ronomon/reed-solomon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RayhanDiahPurwadi/reed-solomon-async.git"
+  },
+  "author": "Rayhan <hi@hanz.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RayhanDiahPurwadi/reed-solomon-async/issues"
+  },
+  "homepage": "https://github.com/RayhanDiahPurwadi/reed-solomon-async#readme",
+  "dependencies": {
+    "@ronomon/reed-solomon": "6.0.0"
+  }
+}
